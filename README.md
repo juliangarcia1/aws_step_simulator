@@ -2,4 +2,7 @@
 Simulates step function steps in a local environment
 
 * Dependencies:
-    * Python-lambda or Serverless for Invoke feature. To be defined.
+    * Serverless for Invoke feature. Local or remote lambda invokation
+        * Creating app:
+            * sls create --template aws-python3
+    
